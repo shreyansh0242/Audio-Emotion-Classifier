@@ -2,7 +2,7 @@
 # **Audio Emotion Classifier**
 
 This project is an audio emotion classifier designed to identify emotions in audio recordings using advanced machine learning techniques. The classifier is built using data from the SAVEE, RAVDES, and TESS datasets.
-Deployed Link : https://audio-emotion-classifier.streamlit.app/
+Deployed Link : https://audio-emotion-classifier-32c4bmywbanprhojtghzze.streamlit.app/
 
 ## Overview
 The goal of this project is to accurately detect emotions from audio signals. The model uses Mel Frequency Cepstral Coefficients (MFCCs) for feature extraction, which effectively captures the essential characteristics of audio signals. The classifier is based on an LSTM neural network, which is well-suited for sequential data.
